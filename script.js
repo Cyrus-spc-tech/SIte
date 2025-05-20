@@ -5,3 +5,4 @@ $( document ).ready( function()
 		$( this ).attr( 'data-spc' , $( this ).text() );
 	} );
 } );
+
